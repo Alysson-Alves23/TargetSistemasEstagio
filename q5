@@ -1,0 +1,4 @@
+Se todas as lâmpadas iniciarem desligadas, posso ligar o primeiro interruptor esperar um pooco e desligar,
+após isso ligo o segundo interruptor e vou para uma das salas, se estiver aceso, é o segundo interuptor, se estiver
+apagado e quente, é o segundo interruptor, se estiver apagado e frio é o terceiro. Faço a mesma verificação com a segunda
+sala, a opção restante será o interruptor ligado última sala.
